@@ -1,0 +1,46 @@
+html{
+	padding-top: 0px;
+}
+
+.panel-heading {
+	background-color: #2D9BAC !important;
+}
+
+.panel.panel-info {
+	border: 1px solid #2D9BAC;
+	border-radius: 6px;
+}
+.contactform{
+	max-width: 640px;
+	height: auto;
+	margin: auto;
+}
+h3.panel-title {
+	text-align: center;
+}
+#title {
+	font-size: 150%;
+}
+
+textarea {
+	resize: none;
+}
+
+a.refreshpage {
+	float: right;
+	font-size: 150%;
+}
+
+.section-header {
+	background-color: #E6E8EA;
+	font-style: bold;
+	font-size: 120%;
+	padding: 10px 0px 10px 0px; 
+}
+.section-1 {
+	padding-bottom: 0px;
+}
+.dropdown-group {
+	margin-bottom: 10px;
+}
+
